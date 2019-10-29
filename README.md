@@ -1,5 +1,7 @@
 # converter
 
+![alt text](https://raw.githubusercontent.com/gagigante/VUEJS-CURRENCY-CONVERTER/master/Screenshots/print.png)
+
 ## Project setup
 ```
 yarn install
