@@ -3,9 +3,9 @@
 ![alt text](https://raw.githubusercontent.com/gagigante/VUEJS-CURRENCY-CONVERTER/master/Screenshots/print.png)
 
 ## API
-```
+
 https://free.currencyconverterapi.com/
-```
+
 
 ## Project setup
 ```
