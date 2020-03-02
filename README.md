@@ -1,4 +1,4 @@
-# converter
+# Currency converter
 
 ![alt text](https://raw.githubusercontent.com/gagigante/VUEJS-CURRENCY-CONVERTER/master/Screenshots/print.png)
 
